@@ -1,0 +1,501 @@
+Customer,Geographic indicator,Months with service,Age in years,Marital status,Years at current address,Household income in thousands,Level of education,Years with current employer,Retired,Gender,Number of people in household,Customer category
+ID0001,Zone 2,13,44,Married,9,64,Graduate,5,No,Male,2,Category 1
+ID0002,Zone 3,11,33,Married,7,136,Doctorate,5,No,Male,6,Category 4
+ID0003,Zone 3,68,52,Married,24,116,Did Not Complete High School,29,No,Female,2,Category 3
+ID0004,Zone 2,33,33,Unmarried,12,33,Completed High School,0,No,Female,1,Category 1
+ID0005,Zone 2,23,30,Married,9,30,Did Not Complete High School,2,No,Male,4,Category 3
+ID0006,Zone 2,41,39,Unmarried,17,78,Completed High School,16,No,Female,1,Category 3
+ID0007,Zone 3,45,22,Married,2,19,Completed High School,4,No,Female,5,Category 2
+ID0008,Zone 2,38,35,Unmarried,5,76,Completed High School,10,No,Male,3,Category 4
+ID0009,Zone 3,45,59,Married,7,166,Graduate,31,No,Male,5,Category 3
+ID0010,Zone 1,68,41,Married,21,72,Did Not Complete High School,22,No,Male,3,Category 2
+ID0011,Zone 2,5,33,Unmarried,10,125,Graduate,5,No,Female,1,Category 1
+ID0012,Zone 3,7,35,Unmarried,14,80,Completed High School,15,No,Female,1,Category 3
+ID0013,Zone 1,41,38,Married,8,37,Completed High School,9,No,Female,3,Category 1
+ID0014,Zone 2,57,54,Married,30,115,Graduate,23,No,Female,3,Category 4
+ID0015,Zone 2,9,46,Unmarried,3,25,Did Not Complete High School,8,No,Female,2,Category 1
+ID0016,Zone 1,29,38,Married,12,75,Doctorate,1,No,Male,4,Category 2
+ID0017,Zone 3,60,57,Unmarried,38,162,Completed High School,30,No,Male,1,Category 3
+ID0018,Zone 3,34,48,Unmarried,3,49,Completed High School,6,No,Female,3,Category 3
+ID0019,Zone 2,1,24,Unmarried,3,20,Did Not Complete High School,3,No,Male,1,Category 1
+ID0020,Zone 1,26,29,Married,3,77,Graduate,2,No,Male,4,Category 4
+ID0021,Zone 3,6,30,Unmarried,7,16,Undergraduate,1,No,Female,1,Category 2
+ID0022,Zone 1,68,52,Married,17,120,Did Not Complete High School,24,No,Male,2,Category 1
+ID0023,Zone 3,53,33,Unmarried,10,101,Doctorate,4,No,Female,2,Category 4
+ID0024,Zone 3,55,48,Married,19,67,Did Not Complete High School,25,No,Male,3,Category 1
+ID0025,Zone 3,14,43,Married,18,36,Did Not Complete High School,5,No,Male,5,Category 3
+ID0026,Zone 2,1,21,Unmarried,0,33,Completed High School,0,No,Female,3,Category 3
+ID0027,Zone 2,42,40,Unmarried,7,37,Completed High School,8,No,Female,1,Category 4
+ID0028,Zone 3,25,33,Married,11,31,Did Not Complete High School,5,No,Male,4,Category 3
+ID0029,Zone 1,9,21,Married,1,17,Completed High School,2,No,Female,3,Category 1
+ID0030,Zone 2,13,33,Married,9,19,Graduate,0,No,Female,2,Category 2
+ID0031,Zone 1,56,37,Married,6,36,Did Not Complete High School,13,No,Female,2,Category 2
+ID0032,Zone 1,71,53,Married,27,155,Doctorate,12,No,Male,2,Category 4
+ID0033,Zone 1,35,50,Married,26,140,Completed High School,21,No,Female,4,Category 3
+ID0034,Zone 1,11,27,Married,8,55,Doctorate,0,No,Male,3,Category 2
+ID0035,Zone 2,60,46,Married,13,163,Undergraduate,24,No,Male,2,Category 4
+ID0036,Zone 3,20,35,Married,11,52,Graduate,0,No,Male,2,Category 2
+ID0037,Zone 2,54,60,Unmarried,38,211,Graduate,25,No,Male,1,Category 4
+ID0038,Zone 1,44,57,Married,1,186,Completed High School,17,No,Male,2,Category 3
+ID0039,Zone 1,11,41,Married,0,39,Did Not Complete High School,1,No,Female,2,Category 3
+ID0040,Zone 2,72,57,Unmarried,34,22,Completed High School,35,Yes,Female,1,Category 3
+ID0041,Zone 3,10,41,Unmarried,7,30,Did Not Complete High School,7,No,Male,1,Category 3
+ID0042,Zone 2,15,28,Unmarried,0,29,Completed High School,4,No,Female,1,Category 3
+ID0043,Zone 2,27,28,Married,4,23,Completed High School,8,No,Male,5,Category 1
+ID0044,Zone 1,9,36,Married,14,62,Graduate,10,No,Male,6,Category 4
+ID0045,Zone 1,64,43,Married,20,76,Graduate,20,No,Female,4,Category 3
+ID0046,Zone 1,65,41,Married,3,74,Graduate,16,No,Male,2,Category 2
+ID0047,Zone 1,49,51,Married,27,63,Graduate,19,No,Male,5,Category 2
+ID0048,Zone 3,47,41,Married,0,36,Graduate,8,No,Male,2,Category 4
+ID0049,Zone 3,9,34,Married,9,33,Completed High School,8,No,Female,4,Category 1
+ID0050,Zone 1,5,36,Unmarried,14,29,Completed High School,9,No,Female,1,Category 3
+ID0051,Zone 2,30,34,Married,4,27,Completed High School,1,No,Male,5,Category 1
+ID0052,Zone 1,56,52,Married,28,49,Completed High School,12,No,Male,4,Category 2
+ID0053,Zone 3,10,22,Unmarried,0,24,Graduate,0,No,Male,1,Category 4
+ID0054,Zone 1,7,26,Married,3,26,Completed High School,2,No,Male,5,Category 1
+ID0055,Zone 1,52,27,Unmarried,6,47,Undergraduate,5,No,Male,2,Category 1
+ID0056,Zone 2,36,45,Married,1,94,Completed High School,18,No,Female,5,Category 1
+ID0057,Zone 3,27,34,Unmarried,8,21,Undergraduate,4,No,Female,1,Category 2
+ID0058,Zone 1,58,62,Married,36,27,Did Not Complete High School,0,No,Male,2,Category 1
+ID0059,Zone 2,41,52,Unmarried,27,30,Completed High School,2,No,Female,1,Category 3
+ID0060,Zone 2,47,40,Married,16,127,Graduate,12,No,Female,4,Category 2
+ID0061,Zone 2,55,39,Married,15,137,Completed High School,20,No,Female,2,Category 3
+ID0062,Zone 2,56,50,Married,1,80,Completed High School,24,No,Female,4,Category 4
+ID0063,Zone 3,35,55,Unmarried,24,30,Completed High School,2,No,Male,1,Category 1
+ID0064,Zone 2,69,51,Married,11,438,Graduate,23,No,Female,2,Category 4
+ID0065,Zone 2,44,39,Unmarried,16,79,Completed High School,16,No,Male,1,Category 4
+ID0066,Zone 3,36,47,Married,16,63,Did Not Complete High School,23,No,Male,2,Category 1
+ID0067,Zone 3,28,51,Married,22,40,Undergraduate,10,No,Female,6,Category 3
+ID0068,Zone 1,72,67,Married,44,51,Did Not Complete High School,34,Yes,Male,2,Category 3
+ID0069,Zone 1,16,27,Unmarried,5,37,Undergraduate,5,No,Male,4,Category 1
+ID0070,Zone 3,3,43,Unmarried,19,61,Graduate,11,No,Female,1,Category 1
+ID0071,Zone 1,40,57,Married,15,22,Completed High School,9,No,Male,2,Category 1
+ID0072,Zone 3,16,39,Unmarried,6,44,Graduate,3,No,Female,1,Category 2
+ID0073,Zone 1,20,42,Unmarried,4,17,Undergraduate,5,No,Male,1,Category 1
+ID0074,Zone 2,48,43,Unmarried,13,110,Doctorate,15,No,Female,3,Category 2
+ID0075,Zone 2,64,48,Married,13,91,Completed High School,24,No,Male,2,Category 3
+ID0076,Zone 1,8,46,Unmarried,3,46,Completed High School,8,No,Male,1,Category 1
+ID0077,Zone 1,40,38,Married,10,85,Undergraduate,12,No,Male,2,Category 3
+ID0078,Zone 2,38,71,Unmarried,27,10,Completed High School,12,Yes,Male,1,Category 1
+ID0079,Zone 1,67,68,Unmarried,28,244,Did Not Complete High School,47,No,Female,1,Category 3
+ID0080,Zone 1,26,42,Unmarried,0,80,Graduate,15,No,Female,1,Category 4
+ID0081,Zone 3,41,34,Married,15,83,Doctorate,1,No,Female,2,Category 4
+ID0082,Zone 2,2,31,Unmarried,2,21,Did Not Complete High School,6,No,Male,1,Category 1
+ID0083,Zone 3,20,48,Married,29,24,Completed High School,3,No,Male,2,Category 4
+ID0084,Zone 2,31,53,Unmarried,2,351,Undergraduate,31,No,Female,1,Category 3
+ID0085,Zone 2,45,52,Married,4,169,Graduate,29,No,Female,4,Category 2
+ID0086,Zone 2,33,27,Married,7,46,Completed High School,7,No,Male,4,Category 1
+ID0087,Zone 1,10,26,Unmarried,6,34,Undergraduate,3,No,Male,1,Category 2
+ID0088,Zone 2,62,54,Married,2,50,Graduate,3,No,Male,2,Category 4
+ID0089,Zone 2,4,35,Unmarried,16,161,Doctorate,6,No,Female,1,Category 4
+ID0090,Zone 1,42,47,Married,17,212,Graduate,17,No,Male,2,Category 3
+ID0091,Zone 3,27,51,Married,3,80,Doctorate,11,No,Male,3,Category 2
+ID0092,Zone 2,38,42,Unmarried,1,30,Graduate,7,No,Female,1,Category 1
+ID0093,Zone 3,52,61,Married,3,53,Doctorate,1,No,Female,2,Category 2
+ID0094,Zone 3,35,33,Unmarried,9,73,Doctorate,4,No,Female,1,Category 4
+ID0095,Zone 3,3,20,Married,1,17,Completed High School,0,No,Female,4,Category 1
+ID0096,Zone 2,17,33,Unmarried,9,23,Doctorate,3,No,Male,1,Category 4
+ID0097,Zone 1,55,53,Married,21,34,Did Not Complete High School,8,No,Male,2,Category 3
+ID0098,Zone 3,43,36,Married,5,107,Did Not Complete High School,19,No,Female,3,Category 2
+ID0099,Zone 2,47,25,Married,5,21,Did Not Complete High School,1,No,Female,2,Category 3
+ID0100,Zone 3,65,58,Unmarried,30,83,Completed High School,16,No,Female,1,Category 2
+ID0101,Zone 1,13,20,Unmarried,1,17,Undergraduate,0,No,Male,5,Category 4
+ID0102,Zone 3,64,25,Married,4,76,Undergraduate,2,No,Female,6,Category 3
+ID0103,Zone 2,12,24,Unmarried,2,19,Did Not Complete High School,0,No,Male,1,Category 3
+ID0104,Zone 1,29,32,Married,0,49,Graduate,3,No,Female,3,Category 2
+ID0105,Zone 2,23,47,Unmarried,21,173,Undergraduate,22,No,Female,1,Category 2
+ID0106,Zone 2,14,35,Unmarried,4,47,Undergraduate,10,No,Female,1,Category 2
+ID0107,Zone 1,35,61,Unmarried,23,41,Completed High School,11,No,Male,1,Category 1
+ID0108,Zone 3,26,39,Unmarried,8,105,Undergraduate,13,No,Female,1,Category 4
+ID0109,Zone 1,13,54,Unmarried,2,31,Graduate,2,No,Male,1,Category 1
+ID0110,Zone 2,69,40,Married,13,41,Completed High School,17,No,Male,3,Category 2
+ID0111,Zone 3,61,50,Married,30,102,Graduate,9,No,Female,3,Category 2
+ID0112,Zone 2,45,22,Married,2,36,Graduate,0,No,Female,5,Category 2
+ID0113,Zone 2,3,37,Unmarried,13,24,Did Not Complete High School,3,No,Female,1,Category 1
+ID0114,Zone 2,53,22,Unmarried,1,25,Graduate,0,No,Male,2,Category 2
+ID0115,Zone 1,59,42,Unmarried,1,68,Completed High School,21,No,Female,1,Category 3
+ID0116,Zone 1,13,34,Unmarried,11,20,Undergraduate,0,No,Female,1,Category 1
+ID0117,Zone 3,31,31,Unmarried,4,48,Did Not Complete High School,15,No,Male,1,Category 3
+ID0118,Zone 1,40,29,Married,6,40,Completed High School,8,No,Female,5,Category 3
+ID0119,Zone 1,48,55,Unmarried,15,79,Did Not Complete High School,25,No,Male,1,Category 3
+ID0120,Zone 3,3,31,Unmarried,1,28,Did Not Complete High School,0,No,Male,1,Category 1
+ID0121,Zone 2,51,48,Unmarried,12,64,Completed High School,22,No,Female,1,Category 1
+ID0122,Zone 3,33,41,Unmarried,15,37,Completed High School,11,No,Male,1,Category 1
+ID0123,Zone 3,14,47,Married,7,48,Did Not Complete High School,13,No,Male,2,Category 1
+ID0124,Zone 1,17,42,Married,6,131,Doctorate,6,No,Male,3,Category 2
+ID0125,Zone 3,19,29,Married,9,18,Completed High School,2,No,Male,3,Category 1
+ID0126,Zone 2,58,36,Unmarried,10,38,Completed High School,14,No,Female,1,Category 2
+ID0127,Zone 3,22,23,Unmarried,3,37,Completed High School,4,No,Female,3,Category 4
+ID0128,Zone 2,29,31,Married,1,60,Graduate,6,No,Male,5,Category 2
+ID0129,Zone 3,14,22,Married,2,13,Undergraduate,0,No,Female,4,Category 2
+ID0130,Zone 2,70,64,Married,18,98,Did Not Complete High School,31,No,Female,2,Category 4
+ID0131,Zone 1,62,52,Married,2,195,Did Not Complete High School,23,No,Male,2,Category 3
+ID0132,Zone 2,7,35,Married,0,47,Did Not Complete High School,14,No,Male,5,Category 1
+ID0133,Zone 1,56,47,Married,19,65,Completed High School,22,No,Male,3,Category 4
+ID0134,Zone 1,50,50,Married,22,150,Doctorate,5,No,Female,4,Category 2
+ID0135,Zone 2,57,39,Unmarried,6,106,Doctorate,8,No,Male,1,Category 3
+ID0136,Zone 3,2,40,Unmarried,19,51,Graduate,14,No,Female,1,Category 1
+ID0137,Zone 2,40,38,Unmarried,17,96,Graduate,0,No,Female,1,Category 1
+ID0138,Zone 2,6,43,Unmarried,4,33,Doctorate,7,No,Male,2,Category 3
+ID0139,Zone 3,23,25,Married,6,38,Completed High School,1,No,Female,3,Category 3
+ID0140,Zone 3,11,32,Unmarried,6,125,Graduate,5,No,Male,1,Category 4
+ID0141,Zone 1,29,37,Married,13,145,Doctorate,0,No,Female,4,Category 4
+ID0142,Zone 1,42,44,Married,2,99,Completed High School,21,No,Male,3,Category 3
+ID0143,Zone 1,20,34,Married,2,22,Graduate,0,No,Female,3,Category 4
+ID0144,Zone 2,72,60,Married,21,31,Did Not Complete High School,38,Yes,Male,2,Category 2
+ID0145,Zone 1,2,36,Unmarried,3,25,Did Not Complete High School,6,No,Female,1,Category 3
+ID0146,Zone 3,46,25,Unmarried,5,57,Doctorate,0,No,Female,2,Category 1
+ID0147,Zone 2,39,51,Married,21,41,Doctorate,20,No,Male,6,Category 4
+ID0148,Zone 3,24,25,Married,1,20,Undergraduate,1,No,Female,2,Category 2
+ID0149,Zone 3,59,43,Married,4,101,Completed High School,22,No,Female,5,Category 2
+ID0150,Zone 1,65,37,Unmarried,8,56,Completed High School,15,No,Male,1,Category 2
+ID0151,Zone 2,50,27,Married,5,22,Completed High School,5,No,Female,3,Category 1
+ID0152,Zone 1,57,37,Unmarried,11,108,Graduate,9,No,Female,1,Category 3
+ID0153,Zone 3,61,48,Unmarried,14,115,Graduate,20,No,Female,1,Category 4
+ID0154,Zone 3,34,54,Unmarried,31,53,Graduate,22,No,Male,1,Category 4
+ID0155,Zone 3,38,53,Unmarried,13,242,Graduate,12,No,Male,1,Category 4
+ID0156,Zone 1,3,24,Married,2,20,Completed High School,3,No,Female,5,Category 3
+ID0157,Zone 2,4,47,Unmarried,5,123,Graduate,11,No,Male,1,Category 1
+ID0158,Zone 2,15,35,Unmarried,0,34,Did Not Complete High School,12,No,Male,1,Category 1
+ID0159,Zone 1,25,29,Married,8,31,Graduate,3,No,Female,5,Category 2
+ID0160,Zone 3,21,44,Unmarried,25,47,Did Not Complete High School,12,No,Female,2,Category 3
+ID0161,Zone 3,50,37,Married,11,48,Undergraduate,8,No,Female,2,Category 3
+ID0162,Zone 2,65,64,Married,22,13,Completed High School,5,Yes,Female,3,Category 3
+ID0163,Zone 2,59,52,Married,18,78,Did Not Complete High School,25,No,Male,2,Category 1
+ID0164,Zone 3,29,26,Unmarried,7,34,Did Not Complete High School,7,No,Female,2,Category 3
+ID0165,Zone 1,60,46,Unmarried,17,81,Doctorate,9,No,Female,1,Category 2
+ID0166,Zone 1,71,45,Married,14,86,Completed High School,25,No,Male,2,Category 2
+ID0167,Zone 3,38,27,Married,0,26,Graduate,2,No,Male,4,Category 4
+ID0168,Zone 3,16,34,Married,5,51,Completed High School,8,No,Female,5,Category 1
+ID0169,Zone 3,7,31,Unmarried,10,59,Undergraduate,10,No,Male,1,Category 1
+ID0170,Zone 1,59,53,Unmarried,21,112,Graduate,16,No,Male,1,Category 2
+ID0171,Zone 2,22,56,Married,14,57,Graduate,28,No,Male,2,Category 4
+ID0172,Zone 1,18,48,Married,20,41,Did Not Complete High School,2,No,Female,2,Category 1
+ID0173,Zone 2,64,46,Married,19,168,Completed High School,26,No,Female,2,Category 4
+ID0174,Zone 2,7,33,Unmarried,4,29,Graduate,4,No,Female,3,Category 1
+ID0175,Zone 3,65,58,Unmarried,13,167,Completed High School,14,No,Female,2,Category 2
+ID0176,Zone 3,7,24,Unmarried,5,29,Completed High School,3,No,Male,3,Category 1
+ID0177,Zone 1,64,55,Unmarried,28,104,Did Not Complete High School,26,No,Female,1,Category 3
+ID0178,Zone 3,42,22,Married,0,46,Graduate,0,No,Male,2,Category 4
+ID0179,Zone 3,33,26,Unmarried,5,46,Graduate,1,No,Female,3,Category 4
+ID0180,Zone 1,3,33,Unmarried,8,51,Graduate,0,No,Female,1,Category 1
+ID0181,Zone 2,69,42,Married,11,65,Completed High School,18,No,Male,2,Category 4
+ID0182,Zone 2,9,33,Unmarried,1,48,Completed High School,13,No,Male,2,Category 1
+ID0183,Zone 3,22,34,Married,1,46,Undergraduate,1,No,Male,4,Category 2
+ID0184,Zone 2,53,63,Married,15,43,Completed High School,18,No,Male,2,Category 2
+ID0185,Zone 3,71,53,Unmarried,30,110,Did Not Complete High School,34,No,Male,1,Category 2
+ID0186,Zone 3,24,26,Unmarried,2,32,Undergraduate,2,No,Male,3,Category 1
+ID0187,Zone 3,12,22,Married,1,18,Undergraduate,0,No,Female,2,Category 1
+ID0188,Zone 1,25,39,Married,1,26,Graduate,0,No,Male,4,Category 2
+ID0189,Zone 3,63,28,Married,9,34,Completed High School,10,No,Female,6,Category 3
+ID0190,Zone 1,33,54,Married,18,57,Graduate,4,No,Female,3,Category 3
+ID0191,Zone 2,57,54,Married,20,21,Completed High School,0,No,Female,3,Category 1
+ID0192,Zone 3,13,33,Unmarried,7,38,Undergraduate,10,No,Female,1,Category 4
+ID0193,Zone 1,13,21,Unmarried,2,19,Undergraduate,0,No,Female,1,Category 2
+ID0194,Zone 1,71,39,Unmarried,2,40,Undergraduate,17,No,Male,1,Category 3
+ID0195,Zone 3,18,69,Married,11,58,Undergraduate,8,No,Male,2,Category 4
+ID0196,Zone 1,17,51,Married,10,95,Completed High School,15,No,Female,2,Category 1
+ID0197,Zone 2,22,43,Unmarried,4,114,Completed High School,19,No,Male,1,Category 1
+ID0198,Zone 2,65,65,Married,27,128,Undergraduate,24,No,Male,2,Category 3
+ID0199,Zone 3,7,40,Unmarried,9,33,Graduate,2,No,Female,1,Category 1
+ID0200,Zone 3,72,66,Unmarried,30,460,Graduate,41,No,Female,1,Category 4
+ID0201,Zone 1,35,43,Unmarried,12,224,Undergraduate,17,No,Male,1,Category 1
+ID0202,Zone 1,24,39,Unmarried,2,122,Graduate,12,No,Male,3,Category 4
+ID0203,Zone 1,64,24,Married,0,23,Undergraduate,1,No,Female,5,Category 2
+ID0204,Zone 2,63,63,Married,19,191,Undergraduate,27,No,Male,2,Category 2
+ID0205,Zone 1,38,31,Married,7,187,Graduate,6,No,Male,3,Category 4
+ID0206,Zone 2,29,37,Married,9,119,Undergraduate,12,No,Male,3,Category 1
+ID0207,Zone 1,72,69,Married,49,44,Completed High School,44,Yes,Female,2,Category 3
+ID0208,Zone 1,10,27,Married,2,15,Undergraduate,2,No,Female,2,Category 4
+ID0209,Zone 3,72,64,Unmarried,41,674,Graduate,37,No,Female,1,Category 3
+ID0210,Zone 3,52,23,Married,4,33,Graduate,0,No,Female,2,Category 3
+ID0211,Zone 3,13,55,Unmarried,3,250,Completed High School,35,No,Female,2,Category 1
+ID0212,Zone 1,3,33,Unmarried,6,64,Graduate,0,No,Male,2,Category 1
+ID0213,Zone 3,39,24,Married,2,26,Completed High School,4,No,Male,4,Category 1
+ID0214,Zone 2,28,29,Unmarried,4,23,Undergraduate,5,No,Male,2,Category 2
+ID0215,Zone 2,46,42,Unmarried,9,52,Graduate,7,No,Male,3,Category 2
+ID0216,Zone 2,62,46,Unmarried,27,200,Undergraduate,9,No,Female,1,Category 1
+ID0217,Zone 2,23,33,Married,7,28,Did Not Complete High School,4,No,Male,2,Category 3
+ID0218,Zone 3,23,25,Married,5,19,Doctorate,0,No,Male,3,Category 4
+ID0219,Zone 2,72,61,Married,39,76,Undergraduate,21,No,Male,2,Category 4
+ID0220,Zone 3,56,60,Unmarried,26,70,Completed High School,20,No,Male,1,Category 1
+ID0221,Zone 1,8,30,Unmarried,1,34,Completed High School,9,No,Female,1,Category 3
+ID0222,Zone 3,3,36,Unmarried,7,34,Doctorate,3,No,Female,3,Category 4
+ID0223,Zone 3,37,37,Unmarried,7,172,Undergraduate,13,No,Male,1,Category 1
+ID0224,Zone 3,37,53,Married,13,48,Did Not Complete High School,10,No,Male,3,Category 3
+ID0225,Zone 2,6,30,Unmarried,9,45,Completed High School,2,No,Female,1,Category 1
+ID0226,Zone 1,48,47,Unmarried,9,72,Undergraduate,13,No,Male,5,Category 4
+ID0227,Zone 2,43,43,Married,3,55,Graduate,18,No,Female,4,Category 4
+ID0228,Zone 2,21,29,Unmarried,7,40,Graduate,2,No,Female,4,Category 1
+ID0229,Zone 3,6,33,Unmarried,12,26,Undergraduate,0,No,Male,1,Category 3
+ID0230,Zone 2,69,51,Unmarried,18,96,Did Not Complete High School,33,No,Male,4,Category 3
+ID0231,Zone 1,22,33,Unmarried,9,54,Did Not Complete High School,10,No,Male,1,Category 3
+ID0232,Zone 1,28,40,Married,1,47,Completed High School,9,No,Female,3,Category 3
+ID0233,Zone 1,71,47,Married,23,142,Did Not Complete High School,30,No,Male,2,Category 2
+ID0234,Zone 2,7,37,Unmarried,5,57,Graduate,1,No,Male,1,Category 1
+ID0235,Zone 1,63,29,Unmarried,10,20,Undergraduate,7,No,Male,2,Category 4
+ID0236,Zone 2,53,57,Unmarried,25,37,Did Not Complete High School,7,No,Male,1,Category 2
+ID0237,Zone 2,50,52,Married,17,36,Graduate,16,No,Male,4,Category 4
+ID0238,Zone 2,39,31,Married,6,24,Graduate,2,No,Male,2,Category 4
+ID0239,Zone 3,16,19,Unmarried,0,21,Completed High School,0,No,Female,1,Category 1
+ID0240,Zone 3,43,51,Married,15,186,Undergraduate,25,No,Male,2,Category 4
+ID0241,Zone 3,44,31,Unmarried,12,30,Did Not Complete High School,7,No,Female,3,Category 1
+ID0242,Zone 2,72,66,Married,43,96,Completed High School,16,No,Female,2,Category 4
+ID0243,Zone 3,61,76,Unmarried,39,15,Did Not Complete High School,29,Yes,Male,1,Category 3
+ID0244,Zone 3,43,21,Married,1,25,Did Not Complete High School,4,No,Male,4,Category 2
+ID0245,Zone 3,24,39,Unmarried,11,49,Undergraduate,7,No,Female,1,Category 1
+ID0246,Zone 3,64,45,Unmarried,4,38,Completed High School,7,No,Female,1,Category 3
+ID0247,Zone 2,64,38,Unmarried,0,29,Completed High School,2,No,Male,2,Category 2
+ID0248,Zone 1,24,26,Unmarried,7,55,Completed High School,7,No,Female,1,Category 1
+ID0249,Zone 3,33,55,Married,21,64,Undergraduate,10,No,Female,3,Category 1
+ID0250,Zone 2,33,33,Married,12,42,Graduate,7,No,Female,5,Category 2
+ID0251,Zone 1,2,40,Unmarried,9,134,Graduate,2,No,Male,1,Category 1
+ID0252,Zone 2,42,48,Married,22,82,Did Not Complete High School,21,No,Female,5,Category 4
+ID0253,Zone 1,52,54,Married,5,153,Doctorate,10,No,Male,2,Category 2
+ID0254,Zone 1,45,66,Unmarried,43,144,Completed High School,13,No,Female,1,Category 2
+ID0255,Zone 3,3,25,Unmarried,4,22,Graduate,0,No,Male,2,Category 4
+ID0256,Zone 2,37,53,Married,16,35,Did Not Complete High School,16,No,Female,4,Category 3
+ID0257,Zone 2,28,57,Unmarried,33,82,Graduate,22,No,Female,1,Category 2
+ID0258,Zone 3,40,63,Married,9,61,Did Not Complete High School,22,No,Male,2,Category 1
+ID0259,Zone 2,37,33,Unmarried,1,102,Completed High School,12,No,Male,1,Category 4
+ID0260,Zone 3,7,27,Unmarried,5,31,Undergraduate,4,No,Male,5,Category 4
+ID0261,Zone 1,71,56,Unmarried,23,170,Did Not Complete High School,30,No,Female,1,Category 4
+ID0262,Zone 2,19,46,Unmarried,11,26,Completed High School,0,No,Female,1,Category 1
+ID0263,Zone 2,61,40,Unmarried,15,85,Undergraduate,15,No,Female,1,Category 3
+ID0264,Zone 3,70,53,Married,16,183,Completed High School,35,No,Female,2,Category 2
+ID0265,Zone 2,60,55,Married,13,67,Did Not Complete High School,18,No,Female,2,Category 1
+ID0266,Zone 3,48,45,Married,5,42,Did Not Complete High School,11,No,Female,2,Category 1
+ID0267,Zone 1,8,63,Married,1,31,Did Not Complete High School,9,No,Male,2,Category 3
+ID0268,Zone 2,58,58,Married,10,96,Completed High School,17,No,Male,4,Category 3
+ID0269,Zone 1,16,24,Married,5,24,Undergraduate,2,No,Male,5,Category 3
+ID0270,Zone 2,33,33,Unmarried,4,53,Completed High School,14,No,Female,1,Category 1
+ID0271,Zone 2,39,25,Unmarried,4,18,Did Not Complete High School,0,No,Female,1,Category 3
+ID0272,Zone 1,62,51,Unmarried,10,43,Graduate,19,No,Male,2,Category 2
+ID0273,Zone 1,50,34,Unmarried,10,104,Undergraduate,9,No,Male,1,Category 4
+ID0274,Zone 2,48,55,Unmarried,31,26,Did Not Complete High School,1,No,Male,1,Category 1
+ID0275,Zone 3,31,62,Unmarried,5,56,Completed High School,26,No,Female,1,Category 3
+ID0276,Zone 2,65,33,Married,9,49,Completed High School,6,No,Male,5,Category 2
+ID0277,Zone 1,36,58,Unmarried,34,80,Did Not Complete High School,21,No,Female,1,Category 2
+ID0278,Zone 1,61,46,Unmarried,5,318,Undergraduate,18,No,Female,1,Category 3
+ID0279,Zone 2,48,42,Unmarried,21,35,Graduate,5,No,Male,1,Category 3
+ID0280,Zone 3,35,45,Unmarried,17,29,Did Not Complete High School,6,No,Male,1,Category 1
+ID0281,Zone 1,51,28,Unmarried,8,43,Doctorate,1,No,Male,5,Category 4
+ID0282,Zone 2,49,51,Married,5,80,Doctorate,3,No,Male,2,Category 4
+ID0283,Zone 1,35,39,Married,11,30,Undergraduate,2,No,Female,3,Category 3
+ID0284,Zone 1,58,70,Unmarried,2,9,Undergraduate,24,Yes,Female,1,Category 2
+ID0285,Zone 1,23,35,Married,0,23,Completed High School,1,No,Male,5,Category 3
+ID0286,Zone 2,26,39,Married,15,58,Graduate,9,No,Female,2,Category 3
+ID0287,Zone 1,38,37,Married,1,52,Did Not Complete High School,20,No,Female,4,Category 4
+ID0288,Zone 1,35,66,Married,44,14,Undergraduate,12,Yes,Female,2,Category 3
+ID0289,Zone 2,37,50,Unmarried,9,110,Completed High School,21,No,Female,1,Category 3
+ID0290,Zone 2,48,43,Married,1,60,Completed High School,12,No,Male,2,Category 2
+ID0291,Zone 3,13,43,Married,1,123,Undergraduate,21,No,Male,5,Category 4
+ID0292,Zone 1,72,63,Married,29,15,Doctorate,31,Yes,Male,2,Category 3
+ID0293,Zone 1,30,27,Unmarried,4,47,Graduate,2,No,Female,2,Category 2
+ID0294,Zone 1,24,43,Unmarried,14,138,Graduate,11,No,Female,1,Category 3
+ID0295,Zone 2,25,51,Married,20,359,Undergraduate,29,No,Male,2,Category 4
+ID0296,Zone 2,50,52,Unmarried,30,214,Undergraduate,22,No,Male,1,Category 4
+ID0297,Zone 2,28,40,Unmarried,7,64,Did Not Complete High School,19,No,Male,1,Category 3
+ID0298,Zone 3,34,51,Unmarried,8,50,Graduate,14,No,Male,1,Category 1
+ID0299,Zone 1,48,32,Unmarried,2,88,Undergraduate,9,No,Male,1,Category 4
+ID0300,Zone 2,42,36,Married,8,86,Completed High School,15,No,Female,2,Category 2
+ID0301,Zone 3,67,65,Married,30,17,Did Not Complete High School,29,Yes,Female,2,Category 3
+ID0302,Zone 1,17,41,Married,7,25,Completed High School,17,No,Male,3,Category 3
+ID0303,Zone 1,29,38,Married,19,46,Completed High School,6,No,Male,2,Category 2
+ID0304,Zone 3,66,61,Unmarried,26,361,Did Not Complete High School,40,No,Female,1,Category 2
+ID0305,Zone 2,1,21,Unmarried,1,18,Undergraduate,0,No,Female,1,Category 1
+ID0306,Zone 1,28,33,Married,3,14,Graduate,1,No,Male,3,Category 4
+ID0307,Zone 1,15,35,Married,5,34,Undergraduate,8,No,Male,2,Category 2
+ID0308,Zone 2,12,64,Unmarried,13,9,Completed High School,6,Yes,Female,1,Category 3
+ID0309,Zone 3,48,49,Unmarried,18,39,Completed High School,5,No,Female,1,Category 4
+ID0310,Zone 2,59,25,Married,4,18,Undergraduate,2,No,Male,4,Category 1
+ID0311,Zone 3,8,26,Married,1,25,Graduate,1,No,Male,2,Category 1
+ID0312,Zone 1,45,52,Unmarried,15,46,Doctorate,8,No,Female,1,Category 2
+ID0313,Zone 1,25,39,Married,8,94,Graduate,11,No,Female,4,Category 2
+ID0314,Zone 1,21,44,Married,4,26,Undergraduate,2,No,Male,2,Category 4
+ID0315,Zone 2,17,68,Married,1,335,Did Not Complete High School,35,No,Female,3,Category 4
+ID0316,Zone 2,41,45,Unmarried,14,25,Undergraduate,6,No,Male,1,Category 1
+ID0317,Zone 1,13,45,Married,3,99,Undergraduate,8,No,Female,2,Category 3
+ID0318,Zone 2,1,26,Married,3,30,Completed High School,7,No,Female,5,Category 1
+ID0319,Zone 3,3,31,Married,4,35,Completed High School,2,No,Female,3,Category 4
+ID0320,Zone 1,23,27,Married,2,51,Doctorate,1,No,Female,2,Category 1
+ID0321,Zone 3,26,42,Unmarried,20,49,Undergraduate,13,No,Male,1,Category 4
+ID0322,Zone 1,37,51,Married,15,54,Did Not Complete High School,15,No,Male,3,Category 3
+ID0323,Zone 3,5,30,Unmarried,3,46,Graduate,7,No,Male,1,Category 2
+ID0324,Zone 1,32,27,Married,3,91,Graduate,1,No,Female,3,Category 4
+ID0325,Zone 3,12,22,Unmarried,1,23,Graduate,0,No,Male,2,Category 1
+ID0326,Zone 1,72,54,Married,6,345,Did Not Complete High School,32,No,Male,2,Category 3
+ID0327,Zone 3,3,25,Married,2,45,Graduate,0,No,Female,2,Category 1
+ID0328,Zone 1,54,43,Unmarried,12,53,Completed High School,12,No,Male,1,Category 3
+ID0329,Zone 2,26,26,Unmarried,2,14,Completed High School,6,No,Female,1,Category 4
+ID0330,Zone 3,14,36,Unmarried,13,67,Doctorate,4,No,Female,1,Category 1
+ID0331,Zone 3,22,51,Unmarried,27,49,Undergraduate,1,No,Male,1,Category 1
+ID0332,Zone 3,65,47,Married,18,37,Did Not Complete High School,15,No,Female,4,Category 1
+ID0333,Zone 3,26,45,Unmarried,18,33,Did Not Complete High School,9,No,Male,1,Category 1
+ID0334,Zone 1,20,37,Unmarried,5,46,Undergraduate,10,No,Female,4,Category 4
+ID0335,Zone 2,67,60,Married,32,93,Did Not Complete High School,21,No,Male,4,Category 2
+ID0336,Zone 1,34,55,Unmarried,2,48,Completed High School,11,No,Male,1,Category 1
+ID0337,Zone 1,37,54,Married,35,183,Completed High School,22,No,Male,3,Category 3
+ID0338,Zone 2,22,23,Married,3,16,Did Not Complete High School,5,No,Male,4,Category 1
+ID0339,Zone 2,5,69,Unmarried,0,11,Completed High School,14,Yes,Male,1,Category 1
+ID0340,Zone 1,28,31,Married,0,42,Graduate,5,No,Female,3,Category 3
+ID0341,Zone 1,20,41,Married,7,67,Graduate,14,No,Female,4,Category 1
+ID0342,Zone 3,72,41,Unmarried,20,181,Graduate,12,No,Male,1,Category 4
+ID0343,Zone 2,30,43,Unmarried,18,53,Graduate,6,No,Male,1,Category 1
+ID0344,Zone 3,71,52,Unmarried,17,172,Completed High School,32,No,Male,1,Category 4
+ID0345,Zone 2,56,44,Unmarried,24,87,Completed High School,19,No,Male,1,Category 3
+ID0346,Zone 1,8,29,Married,2,21,Doctorate,0,No,Male,2,Category 1
+ID0347,Zone 2,32,65,Unmarried,6,9,Completed High School,30,Yes,Female,1,Category 2
+ID0348,Zone 2,46,47,Unmarried,22,144,Undergraduate,22,No,Female,2,Category 3
+ID0349,Zone 3,60,45,Married,23,117,Graduate,11,No,Male,3,Category 4
+ID0350,Zone 2,42,32,Married,0,59,Graduate,4,No,Female,6,Category 4
+ID0351,Zone 3,71,60,Married,39,508,Graduate,35,No,Male,4,Category 4
+ID0352,Zone 2,72,63,Married,40,222,Completed High School,43,Yes,Female,2,Category 3
+ID0353,Zone 3,45,66,Unmarried,11,87,Undergraduate,25,Yes,Female,1,Category 1
+ID0354,Zone 3,5,31,Unmarried,4,34,Did Not Complete High School,9,No,Male,1,Category 3
+ID0355,Zone 2,17,38,Married,19,18,Graduate,0,No,Female,4,Category 2
+ID0356,Zone 2,70,55,Unmarried,12,65,Undergraduate,24,No,Male,1,Category 3
+ID0357,Zone 3,57,57,Married,19,130,Undergraduate,27,No,Female,2,Category 2
+ID0358,Zone 1,20,33,Unmarried,13,44,Undergraduate,8,No,Female,1,Category 2
+ID0359,Zone 1,72,52,Married,21,63,Did Not Complete High School,24,No,Male,3,Category 3
+ID0360,Zone 3,32,50,Unmarried,28,57,Graduate,20,No,Male,1,Category 3
+ID0361,Zone 3,22,57,Married,7,264,Did Not Complete High School,35,No,Female,2,Category 3
+ID0362,Zone 2,6,24,Unmarried,2,28,Did Not Complete High School,5,No,Male,2,Category 3
+ID0363,Zone 3,32,23,Married,2,26,Undergraduate,1,No,Female,6,Category 4
+ID0364,Zone 1,38,33,Unmarried,3,38,Graduate,0,No,Male,1,Category 2
+ID0365,Zone 1,53,35,Unmarried,15,59,Undergraduate,5,No,Female,1,Category 3
+ID0366,Zone 3,37,76,Unmarried,38,117,Graduate,21,No,Female,1,Category 1
+ID0367,Zone 1,47,35,Married,13,70,Graduate,9,No,Female,2,Category 4
+ID0368,Zone 3,69,59,Unmarried,37,104,Completed High School,13,No,Male,1,Category 3
+ID0369,Zone 3,63,56,Unmarried,17,71,Undergraduate,18,No,Female,1,Category 1
+ID0370,Zone 1,61,34,Married,0,70,Undergraduate,7,No,Female,3,Category 4
+ID0371,Zone 1,56,38,Married,8,56,Graduate,10,No,Male,2,Category 4
+ID0372,Zone 3,40,57,Married,18,68,Did Not Complete High School,23,No,Male,2,Category 3
+ID0373,Zone 2,61,45,Unmarried,21,80,Completed High School,13,No,Female,1,Category 2
+ID0374,Zone 2,16,26,Unmarried,7,21,Graduate,1,No,Male,6,Category 4
+ID0375,Zone 2,7,43,Unmarried,4,69,Undergraduate,5,No,Female,1,Category 1
+ID0376,Zone 3,20,31,Married,10,39,Completed High School,3,No,Female,2,Category 1
+ID0377,Zone 2,35,38,Unmarried,7,90,Completed High School,18,No,Male,4,Category 2
+ID0378,Zone 1,60,37,Married,12,64,Doctorate,1,No,Female,2,Category 2
+ID0379,Zone 2,47,25,Unmarried,2,28,Completed High School,6,No,Male,1,Category 4
+ID0380,Zone 2,33,28,Married,3,24,Completed High School,0,No,Female,6,Category 1
+ID0381,Zone 3,12,34,Unmarried,2,44,Completed High School,7,No,Male,1,Category 1
+ID0382,Zone 1,10,31,Unmarried,0,32,Graduate,7,No,Female,2,Category 2
+ID0383,Zone 2,69,33,Married,9,52,Graduate,9,No,Female,3,Category 3
+ID0384,Zone 1,23,20,Unmarried,1,15,Undergraduate,0,No,Female,1,Category 2
+ID0385,Zone 1,53,31,Unmarried,10,46,Undergraduate,6,No,Male,2,Category 2
+ID0386,Zone 2,60,57,Married,14,107,Completed High School,33,No,Female,2,Category 3
+ID0387,Zone 2,33,33,Unmarried,7,56,Completed High School,11,No,Male,1,Category 1
+ID0388,Zone 3,67,40,Married,21,40,Graduate,7,No,Female,4,Category 4
+ID0389,Zone 3,15,38,Married,5,56,Undergraduate,13,No,Male,3,Category 3
+ID0390,Zone 3,64,31,Married,5,46,Completed High School,7,No,Female,4,Category 2
+ID0391,Zone 2,46,49,Married,13,51,Completed High School,21,No,Male,2,Category 1
+ID0392,Zone 2,72,60,Married,33,12,Did Not Complete High School,20,Yes,Male,3,Category 4
+ID0393,Zone 1,61,43,Married,6,34,Doctorate,6,No,Male,3,Category 4
+ID0394,Zone 3,54,27,Unmarried,3,27,Completed High School,6,No,Female,5,Category 4
+ID0395,Zone 3,28,36,Unmarried,3,42,Undergraduate,7,No,Female,1,Category 3
+ID0396,Zone 2,28,38,Unmarried,8,119,Doctorate,2,No,Male,3,Category 4
+ID0397,Zone 2,32,43,Unmarried,13,146,Did Not Complete High School,27,No,Female,1,Category 3
+ID0398,Zone 2,52,46,Unmarried,17,51,Completed High School,13,No,Female,3,Category 2
+ID0399,Zone 1,48,62,Unmarried,33,86,Did Not Complete High School,22,Yes,Female,1,Category 3
+ID0400,Zone 3,52,42,Married,17,27,Undergraduate,8,No,Female,2,Category 3
+ID0401,Zone 1,37,43,Unmarried,8,38,Undergraduate,9,No,Male,1,Category 2
+ID0402,Zone 1,41,52,Unmarried,26,928,Undergraduate,29,No,Male,3,Category 3
+ID0403,Zone 2,43,27,Married,3,21,Completed High School,1,No,Female,3,Category 2
+ID0404,Zone 3,67,60,Unmarried,24,24,Did Not Complete High School,6,No,Female,1,Category 3
+ID0405,Zone 3,61,52,Married,30,91,Did Not Complete High School,25,No,Female,2,Category 1
+ID0406,Zone 3,70,39,Married,20,38,Completed High School,8,No,Female,4,Category 3
+ID0407,Zone 3,44,32,Married,1,96,Graduate,5,No,Female,4,Category 4
+ID0408,Zone 3,46,45,Unmarried,12,96,Undergraduate,17,No,Male,1,Category 2
+ID0409,Zone 3,39,34,Unmarried,2,54,Undergraduate,5,No,Male,1,Category 1
+ID0410,Zone 2,39,59,Unmarried,20,1668,Graduate,27,No,Female,1,Category 2
+ID0411,Zone 2,50,29,Married,10,53,Graduate,0,No,Female,4,Category 4
+ID0412,Zone 3,5,31,Unmarried,1,21,Undergraduate,1,No,Female,2,Category 1
+ID0413,Zone 2,10,34,Unmarried,1,52,Doctorate,3,No,Female,1,Category 2
+ID0414,Zone 1,72,69,Unmarried,45,17,Undergraduate,36,Yes,Female,1,Category 2
+ID0415,Zone 2,68,60,Unmarried,40,262,Completed High School,39,No,Female,1,Category 3
+ID0416,Zone 3,58,28,Unmarried,5,34,Doctorate,1,No,Female,1,Category 2
+ID0417,Zone 3,18,44,Married,10,107,Did Not Complete High School,19,No,Female,7,Category 1
+ID0418,Zone 1,65,45,Married,25,67,Doctorate,13,No,Female,2,Category 3
+ID0419,Zone 3,8,45,Unmarried,1,37,Graduate,0,No,Male,1,Category 2
+ID0420,Zone 2,1,20,Unmarried,1,21,Completed High School,0,No,Female,2,Category 1
+ID0421,Zone 3,42,58,Unmarried,7,22,Did Not Complete High School,4,No,Female,1,Category 2
+ID0422,Zone 1,4,25,Married,3,71,Undergraduate,3,No,Female,5,Category 1
+ID0423,Zone 3,17,35,Unmarried,4,77,Undergraduate,8,No,Female,1,Category 3
+ID0424,Zone 2,8,24,Married,1,18,Graduate,0,No,Female,5,Category 4
+ID0425,Zone 1,49,37,Married,17,50,Completed High School,12,No,Female,2,Category 2
+ID0426,Zone 1,56,46,Married,21,33,Graduate,7,No,Male,2,Category 2
+ID0427,Zone 1,62,57,Married,21,94,Did Not Complete High School,22,No,Male,2,Category 4
+ID0428,Zone 2,42,57,Married,25,209,Did Not Complete High School,40,No,Female,4,Category 1
+ID0429,Zone 1,13,32,Unmarried,7,31,Graduate,5,No,Male,2,Category 3
+ID0430,Zone 1,69,46,Married,18,66,Completed High School,19,No,Male,4,Category 2
+ID0431,Zone 2,45,59,Unmarried,14,51,Did Not Complete High School,15,No,Male,2,Category 1
+ID0432,Zone 2,66,42,Married,18,118,Completed High School,20,No,Male,2,Category 2
+ID0433,Zone 2,15,35,Unmarried,10,25,Completed High School,3,No,Male,1,Category 1
+ID0434,Zone 1,41,44,Married,1,59,Undergraduate,21,No,Female,3,Category 2
+ID0435,Zone 2,11,20,Unmarried,1,20,Completed High School,0,No,Female,1,Category 4
+ID0436,Zone 3,45,30,Married,0,63,Doctorate,4,No,Male,4,Category 4
+ID0437,Zone 1,52,62,Unmarried,23,36,Graduate,17,No,Male,1,Category 1
+ID0438,Zone 1,42,56,Unmarried,24,72,Graduate,18,No,Female,1,Category 4
+ID0439,Zone 2,48,35,Unmarried,11,50,Did Not Complete High School,16,No,Male,3,Category 3
+ID0440,Zone 3,4,31,Unmarried,5,39,Completed High School,5,No,Male,2,Category 4
+ID0441,Zone 3,53,64,Married,10,54,Completed High School,20,No,Female,2,Category 4
+ID0442,Zone 3,1,59,Unmarried,4,9,Did Not Complete High School,4,Yes,Male,1,Category 3
+ID0443,Zone 3,19,30,Married,10,33,Graduate,1,No,Male,3,Category 4
+ID0444,Zone 2,33,30,Unmarried,11,28,Did Not Complete High School,9,No,Male,1,Category 1
+ID0445,Zone 3,42,36,Married,14,44,Completed High School,11,No,Male,3,Category 3
+ID0446,Zone 1,60,32,Unmarried,12,34,Graduate,4,No,Female,2,Category 2
+ID0447,Zone 2,57,51,Married,7,68,Graduate,18,No,Female,3,Category 3
+ID0448,Zone 1,64,39,Unmarried,5,37,Did Not Complete High School,9,No,Male,1,Category 1
+ID0449,Zone 2,28,20,Married,1,18,Undergraduate,0,No,Male,3,Category 4
+ID0450,Zone 1,29,35,Married,10,55,Completed High School,7,No,Male,4,Category 3
+ID0451,Zone 1,46,31,Married,12,21,Did Not Complete High School,5,No,Male,5,Category 3
+ID0452,Zone 1,22,41,Married,9,29,Undergraduate,11,No,Male,4,Category 1
+ID0453,Zone 2,10,56,Unmarried,26,9,Completed High School,6,Yes,Male,2,Category 1
+ID0454,Zone 3,50,41,Unmarried,16,138,Completed High School,18,No,Female,1,Category 2
+ID0455,Zone 1,55,65,Unmarried,34,28,Graduate,12,Yes,Female,1,Category 4
+ID0456,Zone 2,15,54,Unmarried,7,62,Did Not Complete High School,11,No,Male,1,Category 1
+ID0457,Zone 1,31,32,Married,13,37,Undergraduate,8,No,Female,3,Category 4
+ID0458,Zone 3,5,44,Unmarried,5,83,Did Not Complete High School,16,No,Female,1,Category 2
+ID0459,Zone 2,69,63,Unmarried,28,168,Did Not Complete High School,43,No,Female,2,Category 3
+ID0460,Zone 2,26,27,Married,4,33,Graduate,1,No,Male,6,Category 4
+ID0461,Zone 3,10,33,Married,2,66,Undergraduate,9,No,Female,4,Category 1
+ID0462,Zone 1,26,30,Unmarried,9,18,Graduate,1,No,Male,3,Category 4
+ID0463,Zone 3,25,30,Unmarried,0,20,Did Not Complete High School,4,No,Female,1,Category 3
+ID0464,Zone 3,30,23,Married,4,19,Undergraduate,1,No,Male,4,Category 2
+ID0465,Zone 1,21,39,Married,7,25,Completed High School,1,No,Male,4,Category 3
+ID0466,Zone 1,71,46,Unmarried,27,119,Doctorate,7,No,Female,1,Category 4
+ID0467,Zone 3,11,48,Married,5,323,Graduate,25,No,Male,4,Category 3
+ID0468,Zone 1,24,30,Married,7,45,Did Not Complete High School,11,No,Female,2,Category 1
+ID0469,Zone 1,65,59,Married,27,197,Graduate,26,No,Male,2,Category 2
+ID0470,Zone 1,16,34,Married,13,56,Undergraduate,10,No,Female,3,Category 1
+ID0471,Zone 3,37,51,Married,26,24,Graduate,4,No,Male,2,Category 2
+ID0472,Zone 1,5,30,Unmarried,4,25,Undergraduate,6,No,Male,1,Category 3
+ID0473,Zone 1,3,55,Married,9,26,Doctorate,0,No,Female,2,Category 2
+ID0474,Zone 1,5,32,Unmarried,6,33,Graduate,3,No,Male,2,Category 1
+ID0475,Zone 1,60,44,Married,4,150,Completed High School,24,No,Male,2,Category 4
+ID0476,Zone 2,19,37,Married,4,99,Completed High School,15,No,Female,3,Category 2
+ID0477,Zone 3,54,40,Unmarried,19,50,Graduate,12,No,Female,2,Category 4
+ID0478,Zone 2,25,41,Unmarried,3,81,Undergraduate,20,No,Female,4,Category 3
+ID0479,Zone 2,1,36,Unmarried,6,21,Did Not Complete High School,1,No,Male,2,Category 2
+ID0480,Zone 3,54,68,Unmarried,7,273,Undergraduate,27,No,Female,1,Category 1
+ID0481,Zone 1,14,31,Married,9,39,Undergraduate,4,No,Female,7,Category 1
+ID0482,Zone 3,14,28,Married,7,17,Completed High School,3,No,Male,4,Category 1
+ID0483,Zone 2,10,45,Married,8,115,Undergraduate,17,No,Female,4,Category 2
+ID0484,Zone 1,7,23,Unmarried,3,27,Completed High School,1,No,Female,3,Category 1
+ID0485,Zone 2,33,45,Unmarried,24,35,Did Not Complete High School,6,No,Male,1,Category 3
+ID0486,Zone 1,3,23,Unmarried,2,20,Completed High School,4,No,Male,1,Category 1
+ID0487,Zone 2,56,58,Married,3,92,Did Not Complete High School,25,No,Male,3,Category 1
+ID0488,Zone 2,54,56,Unmarried,8,207,Completed High School,35,No,Female,1,Category 3
+ID0489,Zone 1,72,55,Married,28,40,Did Not Complete High School,11,No,Male,5,Category 2
+ID0490,Zone 1,18,29,Unmarried,4,40,Completed High School,1,No,Male,1,Category 3
+ID0491,Zone 3,25,29,Unmarried,9,55,Graduate,1,No,Male,1,Category 1
+ID0492,Zone 1,42,62,Unmarried,26,26,Did Not Complete High School,35,Yes,Female,1,Category 1
+ID0493,Zone 3,4,37,Unmarried,2,41,Completed High School,8,No,Male,1,Category 1
+ID0494,Zone 2,12,50,Married,16,203,Graduate,25,No,Male,2,Category 1
+ID0495,Zone 2,53,64,Married,17,380,Completed High School,36,No,Female,2,Category 3
+ID0496,Zone 2,13,38,Married,8,104,Graduate,6,No,Male,7,Category 4
+ID0497,Zone 3,18,31,Married,12,24,Undergraduate,4,No,Male,4,Category 2
+ID0498,Zone 3,67,42,Married,20,81,Undergraduate,20,No,Female,5,Category 4
+ID0499,Zone 2,6,24,Unmarried,2,17,Did Not Complete High School,1,No,Male,1,Category 3
+ID0500,Zone 1,25,46,Unmarried,13,45,Did Not Complete High School,12,No,Female,1,Category 3
